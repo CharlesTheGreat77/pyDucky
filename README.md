@@ -62,3 +62,6 @@ python3 pyDucky.py test.txt
 
 # Contributions ❤️
 Feel free to contribute as needed!
+
+# Note
+I need to fix modifier combinations, bear with me.
