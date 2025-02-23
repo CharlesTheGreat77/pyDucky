@@ -17,6 +17,7 @@ class PyDuck:
             "DOWN": Key.down,
             "LEFT": Key.left,
             "RIGHT": Key.right,
+            "GUI": Key.cmd,
             "CTRL": Key.ctrl,
             "ALT": Key.alt,
             "SHIFT": Key.shift,
